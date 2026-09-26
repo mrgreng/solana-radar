@@ -1,0 +1,7 @@
+# One Solana wallet address per line. Replace the placeholders below with
+# wallets you've actually verified - e.g. using the same balance-delta trade
+# reconstruction technique this project's safety/confluence checks are built
+# on - to have a real, positive track record. These are format placeholders
+# only, not real addresses and not a recommendation of any specific wallet.
+REPLACE_WITH_A_WALLET_YOU_TRUST_1111111111
+REPLACE_WITH_A_WALLET_YOU_TRUST_2222222222
