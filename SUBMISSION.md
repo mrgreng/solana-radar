@@ -20,7 +20,7 @@ requirements for you, that's a quick check on your end.
 
 ## Links
 - GitHub: https://github.com/mrgreng/solana-radar
-- Demo video: *(add once ready)*
+- Demo video: https://share.descript.com/view/QzK9wzFQCna
 - Live demo / hosted instance: *(optional — CLI-only for now, see Description)*
 
 ## Description (long form)
@@ -70,7 +70,7 @@ stable aggregator API; a live confluence feed instead of on-demand checks;
 a broader LP-locker whitelist.
 
 ## Team
-*(your name / handle here)*
+*(mrgreng)*
 
 ## Ask
 Submitting for the Solami track prize and evaluation; open to feedback from
